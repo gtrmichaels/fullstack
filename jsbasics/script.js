@@ -120,3 +120,7 @@
         return("You can find me at " + Location);
         }
         console.log(whereToFindMe("home"));
+
+        function add7 (a){
+            return a + 7;
+        }
