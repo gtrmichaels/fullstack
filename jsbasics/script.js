@@ -121,6 +121,8 @@
         }
         console.log(whereToFindMe("home"));
 
+
+        // sum function 
         function add7 (a){
             return a + 7;
         }
